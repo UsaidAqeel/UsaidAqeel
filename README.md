@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there, I am Usaid Aqeel 👋
 
+<h1>About Me👽</h1>
+<p>I am a young man with a passion of coding working as a full-stack developer. I love to create web apps and mobile apps. Currently, working on Javascript React Next Node and many more... </>
 <!--
 **UsaidAqeel/UsaidAqeel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
