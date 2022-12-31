@@ -6,7 +6,7 @@
 
 <h3>Talking about Personal Stuffs::</h3>
 
-- 🔭 I’m currently working on Nodejs, Express, React, Javascript, MongoDB, etc...
+- 🔭 I’m currently working on Javascript, Nodejs, Express, React, MongoDB, etc...
 - 🌱 I’m currently learning full-stack-development
 - 📫 How to reach me: usaidaqeel031@gmail.com
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
