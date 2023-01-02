@@ -12,4 +12,4 @@
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
