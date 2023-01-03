@@ -1,6 +1,7 @@
 ### Hi there, I am Usaid Aqeel 
 
 <h1>About Me👽</h1>
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <p>I am a young man with a passion of coding working as a full-stack developer. I love to create web apps and mobile apps. Currently, working on Javascript, Reactjs, Nextjs, Nodejs and many more... </>
 
 
@@ -12,5 +13,4 @@
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<img src="https://miro.medium.com/max/1400/0*goaFvkjpQM-0p0h6." alt="img">
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
