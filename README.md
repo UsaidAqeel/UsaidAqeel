@@ -13,4 +13,4 @@
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - ❤️ I love writing JavaScript, and building fun experiments on type-level
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg) -->
