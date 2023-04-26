@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h1>About Me👽</h1>
-<p>I am a young man with a passion of coding working as a front-end developer. I love to create web apps and mobile apps. Currently, working on Javascript, Reactjs, Nextjs, Nodejs and many more... </>
+<p>I am a young man with a passion of coding working as a front-end developer. I love to create web apps and mobile apps. Currently, working on Javascript, Reactjs, Nextjs and many more... </>
 
 
 <h3>Talking about Personal Stuffs::</h3>
