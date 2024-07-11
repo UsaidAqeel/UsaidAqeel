@@ -1,6 +1,8 @@
 ### Hi there, I am Usaid Aqeel
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+[comment]: <> (<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">)
+<img src="https://github.com/UsaidAqeel/UsaidAqeel/assets/100064695/2d4d8ddd-8fa6-4184-be17-e8ab3587176c" />
+
 <h1>About Me👽</h1>
 <p>I am a young man with a passion for coding working as a Mern Stack Developer. I love to create web apps and mobile apps. Currently, working on Javascript, Typescript, React, Next, and many more... </p>
 
