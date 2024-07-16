@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Javascript, Typescript, Node, Express, React, MongoDB, Next, etc...
 - 🌱 I’m currently learning Full Stack Development
-- 📫 How to reach me: usaidaqeel031@gmail.com
+- 📫 How to reach me: usaidaqeel309@outlook.com
 - ⚡ Fun fact: Equal is Not Always Equal in Javascript.
 - ❤️ I love writing JavaScript and building fun experiments on type-level
 
